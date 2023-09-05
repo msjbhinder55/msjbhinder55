@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Saad Bhinder</h1>
 <h3 align="center">🌟 Passionate about crafting elegant code and building robust software solutions. I thrive on turning complex problems into simple, efficient, and scalable solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msjbhinder55&label=Profile%20views&color=0e75b6&style=flat" alt="msjbhinder55" /> </p>
 
