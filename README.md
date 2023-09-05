@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.426034794.1693751106&semt=ais)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Bhinder</h1>
 <h3 align="center">🌟 Passionate about crafting elegant code and building robust software solutions. I thrive on turning complex problems into simple, efficient, and scalable solutions.</h3>
